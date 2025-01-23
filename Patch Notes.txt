@@ -1,0 +1,6 @@
+Lost Soul Release Log
+
+- Added additional ending.
+- Added music to appropriate areas
+- New sprites
+- Added sound effects to appropriate entities
